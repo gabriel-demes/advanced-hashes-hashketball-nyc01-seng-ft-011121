@@ -142,17 +142,3 @@ def num_points(player)
       end
     end
   end
-      
-  
-
-
-
-
-
-
-
-
-
-
-
-
