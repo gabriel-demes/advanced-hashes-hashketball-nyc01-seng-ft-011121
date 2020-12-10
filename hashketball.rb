@@ -127,7 +127,7 @@ def game_hash
 end
 
 # Write code here
-def num_points(player)
+def num_points_scored(player)
   hash = game_hash
   hash.each do |x,y|
     y.each do |t,u|
