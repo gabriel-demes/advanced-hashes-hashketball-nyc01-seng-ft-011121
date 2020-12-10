@@ -135,7 +135,7 @@ def num_points_scored(player)
         u.each do |a|
           a.each do |b,c|
             if c == player
-              return a[points]
+              return a[:points]
             end
           end
         end
